@@ -1,6 +1,6 @@
 # actionableDLtesting
 
-We establish this project is for experiments of actionableDLtesting.
+We establish this project for experiments of actionableDLtesting.
 
 In file "backup" we place the simulated mutated test dataset. In file "code" is our experiment codes.
 
